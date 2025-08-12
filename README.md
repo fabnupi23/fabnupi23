@@ -6,7 +6,7 @@
 - Estudiante de Maestria en Inteligencia Artificial y Data Engineering en [@UNIR](https://colombia.unir.net/ingenieria/curso-inteligencia-artificial-data-science/).
 - Experiencia en ingeniería de software
 - Desarrollo web
-- Aplicaciones full-stack
+- Aplicaciones full-stack.
 
 ## Mis proyectos en GitHub 👯
 - Python (Django, Flask)
