@@ -8,7 +8,7 @@
 - Desarrollo web
 - Aplicaciones full-stack
 
-## Mis proyectos en GitHub incluyen soluciones 👯
+## Mis proyectos en GitHub 👯
 - Python (Django, Flask)
 - JavaScript (React, Node.js, Vue.js)
 - Aplicaciones front-end con HTML, CSS y  Vue.js
